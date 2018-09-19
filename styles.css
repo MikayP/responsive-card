@@ -46,13 +46,14 @@
 
 /*Card Styling*/
 
-h1{
+h1 {
     text-align: center;
-    color:white;
+    color: white;
     opacity: 0.9;
-    margin-top:50px;
+    margin-top: 50px;
     font-family: 'Bree Serif', serif;
 }
+
 .m_emote {
     padding-top: 50px;
     font-size: 4em;
@@ -61,7 +62,7 @@ h1{
 p {
     text-align: center;
     font-size: 2.2em;
-     font-family: 'Bree Serif', serif;
+    font-family: 'Bree Serif', serif;
 }
 
 .m_emote,
@@ -84,7 +85,7 @@ p {
     background-color: rgba(54, 54, 255, 0.79);
 }
 
-.card{
+.card {
     border: solid 2px black;
     box-shadow: 2px 2px 3px black;
 }
